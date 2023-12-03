@@ -1,0 +1,10 @@
+<!-- services.html -->
+
+<!-- previous HTML code -->
+
+<section>
+    <h2>Service</h2>
+    <h3>Welcome to our Website.</h3>
+    <p></p>
+    <p>This is our online live website demo. We always with you and services 24 hours. please contact us  and takes service </p>
+</section>
